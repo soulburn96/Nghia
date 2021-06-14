@@ -1,0 +1,668 @@
+fileFormatVersion: 2
+guid: 20aef58efb5df1e44b8548c5e45ffb16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1726871374383373390
+    second: Spiro_Death2_0
+  - first:
+      213: -152950716435071035
+    second: Spiro_Death2_1
+  - first:
+      213: 1615527597228910336
+    second: Spiro_Death2_2
+  - first:
+      213: -2306247231182701694
+    second: Spiro_Death2_3
+  - first:
+      213: -6686355669424255812
+    second: Spiro_Death2_4
+  - first:
+      213: -4418997437950897568
+    second: Spiro_Death2_5
+  - first:
+      213: -8302103914143905675
+    second: Spiro_Death2_6
+  - first:
+      213: -8281933846937435487
+    second: Spiro_Death2_7
+  - first:
+      213: -344552725191776493
+    second: Spiro_Death2_8
+  - first:
+      213: -2610028327637914
+    second: Spiro_Death2_9
+  - first:
+      213: 5149185568201679716
+    second: Spiro_Death2_10
+  - first:
+      213: 8530207911370542714
+    second: Spiro_Death2_11
+  - first:
+      213: -2548606202656601342
+    second: Spiro_Death2_12
+  - first:
+      213: -951197015119738016
+    second: Spiro_Death2_13
+  - first:
+      213: 7345803272422330491
+    second: Spiro_Death2_14
+  - first:
+      213: 8923763752903180608
+    second: Spiro_Death2_15
+  - first:
+      213: 8259904580138757408
+    second: Spiro_Death2_16
+  - first:
+      213: -5411125636141852909
+    second: Spiro_Death2_17
+  - first:
+      213: -4828729373659871947
+    second: Spiro_Death2_18
+  - first:
+      213: -321752137318010106
+    second: Spiro_Death2_19
+  - first:
+      213: 4119838864596485980
+    second: Spiro_Death2_20
+  - first:
+      213: 6328018727690964862
+    second: Spiro_Death2_21
+  - first:
+      213: 1301785055970950340
+    second: Spiro_Death2_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spiro_Death2_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 128
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3a61562abe808e0800000000000000
+      internalID: -1726871374383373390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiro_Death2_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 128
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cffebe322c90edf0800000000000000
+      internalID: -152950716435071035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiro_Death2_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 128
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0076bad4ac18b6610800000000000000
+      internalID: 1615527597228910336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiro_Death2_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 128
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b702dbc509effd0800000000000000
+      internalID: -2306247231182701694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiro_Death2_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 128
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc4c0ac1fa4533a0800000000000000
+      internalID: -6686355669424255812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiro_Death2_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 96
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06253973e319ca2c0800000000000000
+      internalID: -4418997437950897568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiro_Death2_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 96
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578821df97009cc80800000000000000
+      internalID: -8302103914143905675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiro_Death2_7
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 96
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a28208bb09a01d80800000000000000
+      internalID: -8281933846937435487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiro_Death2_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 96
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3172d883f17e73bf0800000000000000
+      internalID: -344552725191776493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiro_Death2_9
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 96
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c6dac613ab6fff0800000000000000
+      internalID: -2610028327637914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiro_Death2_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 64
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463aa332ef4957740800000000000000
+      internalID: 5149185568201679716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiro_Death2_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 64
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ec77186e2616670800000000000000
+      internalID: 8530207911370542714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiro_Death2_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 64
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bcb4a692881acd0800000000000000
+      internalID: -2548606202656601342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiro_Death2_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 64
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b406aba5bacc2f0800000000000000
+      internalID: -951197015119738016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiro_Death2_14
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 64
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7092a2182981f560800000000000000
+      internalID: 7345803272422330491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiro_Death2_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 32
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0410d476ad397db70800000000000000
+      internalID: 8923763752903180608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiro_Death2_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 32
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02deac9e37311a270800000000000000
+      internalID: 8259904580138757408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiro_Death2_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 32
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31751ce37e1d7e4b0800000000000000
+      internalID: -5411125636141852909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiro_Death2_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 32
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5354286e738ecfcb0800000000000000
+      internalID: -4828729373659871947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiro_Death2_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 32
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603ff65c228e88bf0800000000000000
+      internalID: -321752137318010106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiro_Death2_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c574f189e9b9c2930800000000000000
+      internalID: 4119838864596485980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiro_Death2_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f0a0c6183a1d750800000000000000
+      internalID: 6328018727690964862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiro_Death2_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc7f0b7c9ed01210800000000000000
+      internalID: 1301785055970950340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

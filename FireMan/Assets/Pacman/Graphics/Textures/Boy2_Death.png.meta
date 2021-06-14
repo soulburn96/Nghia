@@ -1,0 +1,668 @@
+fileFormatVersion: 2
+guid: 28d54b514a23efd46bd3630d92130a00
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6363950408793527047
+    second: Boy2_Death_0
+  - first:
+      213: 5892125752719512939
+    second: Boy2_Death_1
+  - first:
+      213: 2551854540665175182
+    second: Boy2_Death_2
+  - first:
+      213: 7224440963816381802
+    second: Boy2_Death_3
+  - first:
+      213: -8568300727925681349
+    second: Boy2_Death_4
+  - first:
+      213: -866699830970204221
+    second: Boy2_Death_5
+  - first:
+      213: 618087240371516219
+    second: Boy2_Death_6
+  - first:
+      213: 4066429320886548182
+    second: Boy2_Death_7
+  - first:
+      213: 4088990137797884912
+    second: Boy2_Death_8
+  - first:
+      213: 3858981289035478940
+    second: Boy2_Death_9
+  - first:
+      213: 451775617002713833
+    second: Boy2_Death_10
+  - first:
+      213: 1370638746122115829
+    second: Boy2_Death_11
+  - first:
+      213: 4026590868530857532
+    second: Boy2_Death_12
+  - first:
+      213: -5488528201663416063
+    second: Boy2_Death_13
+  - first:
+      213: 645372207298681302
+    second: Boy2_Death_14
+  - first:
+      213: -1632115026013889068
+    second: Boy2_Death_15
+  - first:
+      213: 7250592619181319340
+    second: Boy2_Death_16
+  - first:
+      213: 8579096548924020682
+    second: Boy2_Death_17
+  - first:
+      213: 3430728918205423588
+    second: Boy2_Death_18
+  - first:
+      213: 1952675525711425103
+    second: Boy2_Death_19
+  - first:
+      213: -6640591929148032128
+    second: Boy2_Death_20
+  - first:
+      213: -7087141083132554368
+    second: Boy2_Death_21
+  - first:
+      213: 3708903721411469572
+    second: Boy2_Death_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boy2_Death_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 128
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703175cdd2b415850800000000000000
+      internalID: 6363950408793527047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy2_Death_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 128
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6517ce772905c150800000000000000
+      internalID: 5892125752719512939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy2_Death_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 128
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cb0d63f220a6320800000000000000
+      internalID: 2551854540665175182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy2_Death_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 128
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d5e05a7ce524460800000000000000
+      internalID: 7224440963816381802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy2_Death_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 128
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33d44f72e7471980800000000000000
+      internalID: -8568300727925681349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy2_Death_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 96
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf3120881dd8f3f0800000000000000
+      internalID: -866699830970204221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy2_Death_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 96
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33bb820213e39800800000000000000
+      internalID: 618087240371516219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy2_Death_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 96
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6fca72cebde6830800000000000000
+      internalID: 4066429320886548182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy2_Death_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 96
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbb48dadd20fb830800000000000000
+      internalID: 4088990137797884912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy2_Death_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 96
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97b6df590bdd8530800000000000000
+      internalID: 3858981289035478940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy2_Death_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 64
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e231a1b787054600800000000000000
+      internalID: 451775617002713833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy2_Death_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 64
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fadef97dac750310800000000000000
+      internalID: 1370638746122115829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy2_Death_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 64
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 3, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c360d96af0351e730800000000000000
+      internalID: 4026590868530857532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy2_Death_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 64
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10973281ea4d4d3b0800000000000000
+      internalID: -5488528201663416063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy2_Death_14
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 64
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d992fb6a92d4f800800000000000000
+      internalID: 645372207298681302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy2_Death_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 32
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd5dd9f7009959e0800000000000000
+      internalID: -1632115026013889068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy2_Death_16
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 32
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca42f5562974f9460800000000000000
+      internalID: 7250592619181319340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy2_Death_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 32
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac755647bd21f0770800000000000000
+      internalID: 8579096548924020682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy2_Death_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 32
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef5b4a36c56c9f20800000000000000
+      internalID: 3430728918205423588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy2_Death_19
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 32
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ee0af7b0c491b10800000000000000
+      internalID: 1952675525711425103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy2_Death_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b3ec4e2d0e7d3a0800000000000000
+      internalID: -6640591929148032128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy2_Death_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0839ec2fbba65ad90800000000000000
+      internalID: -7087141083132554368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boy2_Death_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401ead4b84ca87330800000000000000
+      internalID: 3708903721411469572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
