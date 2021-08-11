@@ -67,11 +67,14 @@ public class GraphManager : MonoBehaviour
         if (valueGraph.line == null)
             SpawnLine(valueGraph);
 
+        // Set linerenderer position point = analytic point
         valueGraph.line.positionCount = analyticPoint.analyticsValues.Count;
 
         for(int i = 0; i < analyticPoint.analyticsValues.Count; i++)
         {
             Vector3 newPosition = Vector3.zero;
+
+            // Set value for each position point
             if ((analyticPoint.maxValue - analyticPoint.minValue) != 0)
                 newPosition.y =(float)((analyticPoint.analyticsValues.Values.ElementAt(i) - analyticPoint.minValue) / (analyticPoint.maxValue - analyticPoint.minValue));
 
@@ -81,6 +84,7 @@ public class GraphManager : MonoBehaviour
             valueGraph.line.SetPosition(i, newPosition);
         }
 
+        // Set range of value for UI element
         valueGraph.valueMaxText.text = analyticPoint.maxValue.ToString("F1");
         valueGraph.valueMinText.text = analyticPoint.minValue.ToString("F1");
 

@@ -11,7 +11,8 @@ The last one is advance which is my most recently projects. The Fireman is the m
 and get away from the Fire to the emergency exit. The game will teach kids fire safety from playing it. Also by doing this game I learnt myself skills and tried some important principles. I tried some game programming partern and architecture
 I just learnt from the Game Programming Parterns books like Events, Bytecode, State Machine,... Also doing level design myself and A* AI pathfinding is quite helpful for me in the future. Other than that I doing my Thesis and it's about 
 EyesTracking Data Visualliaztion. I used 3 methods for this Visuallization. Graphs for raw data,Heatmap and Scanpath for gaze parterns. Also I can't attached the whole project here since it's belong to the GameLab so I can only attached my coding
-works. Here is the version that working with the normal Unity Camera so I think it might be better for you to understand. The Varjo Camera with eyestracking go with the Varjo library so it might be a bit confuse. 
+works. Here is the version that working with the normal Unity Camera so I think it might be better for you to understand. The Varjo Camera with eyestracking go with the Varjo library so it might be a bit confuse. I also attached the result/outcome
+of the script in image and video form in the Result folder. Hope it will be a good demonstration on what I have achieved.
 
 Base on the level of diffuculty, I recommended you to take a look at the advance level (FireMan and Thesis). I think it can demonstrates the highlight of my skillset. 
 
